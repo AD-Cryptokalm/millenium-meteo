@@ -1,0 +1,13 @@
+* {
+  list-style-type: none;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  color: white;
+}
+@font-face {
+	font-family: "Ma Super Fonte";
+	src: url('../public/Starjedi.ttf');
+}
+
